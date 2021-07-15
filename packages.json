@@ -12,6 +12,10 @@
     "url": "https://github.com/r-forge/ctm/pkg/mlt"
   },
   {
+    "package": "mlt.docreg",
+    "url": "https://github.com/r-forge/ctm/pkg/mlt.docreg"
+  },
+  {
     "package": "tram",
     "url": "https://github.com/r-forge/ctm/pkg/tram"
   },
