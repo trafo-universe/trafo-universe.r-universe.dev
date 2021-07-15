@@ -40,6 +40,11 @@
     "url": "https://github.com/r-forge/ctm/"
   },
   {
+    "package": "tramnet",
+    "oncran": true,
+    "url": "https://github.com/r-forge/ctm/"
+  },
+  {
     "package": "tramME",
     "oncran": true,
     "url": "https://github.com/r-forge/ctm/"
