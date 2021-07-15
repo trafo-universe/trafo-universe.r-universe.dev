@@ -1,35 +1,34 @@
-
 [
   {
     "package": "variables",
-    "url": "https://github.com/r-forge/ctm/pkg/variables",
+    "url": "https://github.com/r-forge/ctm/pkg/variables"
   },
   {
     "package": "basefun",
-    "url": "https://github.com/r-forge/ctm/pkg/basefun",
+    "url": "https://github.com/r-forge/ctm/pkg/basefun"
   },
   {
     "package": "mlt",
-    "url": "https://github.com/r-forge/ctm/pkg/mlt",
+    "url": "https://github.com/r-forge/ctm/pkg/mlt"
   },
   {
     "package": "tram",
-    "url": "https://github.com/r-forge/ctm/pkg/tram",
+    "url": "https://github.com/r-forge/ctm/pkg/tram"
   },
   {
     "package": "tbm",
-    "url": "https://github.com/r-forge/ctm/pkg/tbm",
+    "url": "https://github.com/r-forge/ctm/pkg/tbm"
   },
   {
     "package": "trtf",
-    "url": "https://github.com/r-forge/ctm/pkg/trtf",
+    "url": "https://github.com/r-forge/ctm/pkg/trtf"
   },
   {
     "package": "cotram",
-    "url": "https://github.com/r-forge/ctm/pkg/cotram",
+    "url": "https://github.com/r-forge/ctm/pkg/cotram"
   },
   {
     "package": "tramME",
-    "url": "https://github.com/r-forge/ctm/pkg/tramME",
-  },
+    "url": "https://github.com/r-forge/ctm/pkg/tramME"
+  }
 ]
