@@ -2,51 +2,61 @@
   {
     "package": "variables",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/variables"
   },
   {
     "package": "basefun",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/basefun"
   },
   {
     "package": "mlt",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/mlt"
   },
   {
     "package": "mlt.docreg",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/mlt.docreg"
   },
   {
     "package": "tram",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/tram"
   },
   {
     "package": "tbm",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/tbm"
   },
   {
     "package": "trtf",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/trtf"
   },
   {
     "package": "cotram",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/cotram"
   },
   {
     "package": "tramnet",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/tramnet"
   },
   {
     "package": "tramME",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/"
+    "url": "https://github.com/r-forge/ctm/",
+    "subdir": "pkg/tramME"
   }
 ]
