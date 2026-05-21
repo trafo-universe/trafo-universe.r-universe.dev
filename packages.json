@@ -2,49 +2,49 @@
   {
     "package": "variables",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/variables"
   },
   {
     "package": "basefun",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/basefun"
   },
   {
     "package": "mlt",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/mlt"
   },
   {
     "package": "mlt.docreg",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/mlt.docreg"
   },
   {
     "package": "tram",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/tram"
   },
   {
     "package": "tbm",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/tbm"
   },
   {
     "package": "trtf",
+    "url": "https://codeberg.org/thothorn/tram/",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
     "subdir": "pkg/trtf"
   },
   {
     "package": "cotram",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
+    "url": "https://codeberg.org/thothorn/tram/",
     "subdir": "pkg/cotram"
   },
   {
