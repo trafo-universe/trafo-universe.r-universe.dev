@@ -50,9 +50,14 @@
   {
     "package": "tramnet",
     "oncran": true,
-    "url": "https://github.com/r-forge/ctm/",
-    "subdir": "pkg/tramnet"
+    "url": "https://codeberg.org/LucasKook/tramnet"
   },
+  {
+    "package": "tramvs",
+    "oncran": true,
+    "url": "https://codeberg.org/LucasKook/tramvs"
+  },
+ 
   {
     "package": "tramME",
     "oncran": true,
